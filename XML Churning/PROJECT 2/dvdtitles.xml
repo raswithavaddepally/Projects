@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dvdtitle xsi:noNamespaceSchemaLocation="dvdtitles.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<record>
+		<DVDTitle>A.I. Artificial Intelligence</DVDTitle>
+		<ReleaseDate>2002-03-05</ReleaseDate>
+		<Studio>Universal Studios</Studio>
+		<Rated>PG-13</Rated>
+		<RegionCode>1</RegionCode>
+		<Director>Steven Spielberg</Director>
+		<Starring>Haley Joel Osment, Jude Law</Starring>
+	</record>
+	<record>
+		<DVDTitle>Beauty and the Beast</DVDTitle>
+		<ReleaseDate>2002-10-08</ReleaseDate>
+		<Studio>Walt Disney Home Video</Studio>
+		<Rated>G</Rated>
+		<RegionCode>4</RegionCode>
+		<Director>Kirk Wise,Gary Trousdale</Director>
+		<Starring>Paige O'Hara,Robby Benson</Starring>
+	</record>
+	<record>
+		<DVDTitle>Disclosure</DVDTitle>
+		<ReleaseDate>1997-08-22</ReleaseDate>
+		<Studio>Warner Studios</Studio>
+		<Rated>R</Rated>
+		<RegionCode>1</RegionCode>
+		<Director>Barry Levinson</Director>
+		<Starring>Michael Douglas, Demi Moore</Starring>
+	</record>
+	<record>
+		<DVDTitle>Ghost</DVDTitle>
+		<ReleaseDate>2001-04-24</ReleaseDate>
+		<Studio>Paramount Home Video</Studio>
+		<Rated>PG-13</Rated>
+		<RegionCode>1</RegionCode>
+		<Director>Jerry Zucker</Director>
+		<Starring>Patrick Swayze,Demi Moore</Starring>
+	</record>
+	<record>
+		<DVDTitle>Legally Blonde</DVDTitle>
+		<ReleaseDate>2001-11-06</ReleaseDate>
+		<Studio>MGM</Studio>
+		<Rated>PG-13</Rated>
+		<RegionCode>8</RegionCode>
+		<Director>Robert Luketic</Director>
+		<Starring>Reese Witherspoon,Luke Wilson</Starring>
+	</record>
+	<record>
+		<DVDTitle>Moulin Rouge</DVDTitle>
+		<ReleaseDate>2001-12-18</ReleaseDate>
+		<Studio>Twentieth Century Fox</Studio>
+		<Rated>PG-13</Rated>
+		<RegionCode>1</RegionCode>
+		<Director>Baz Luhrmann</Director>
+		<Starring>Nicole Kidman,Ewan McGregor</Starring>
+	</record>
+	<record>
+		<DVDTitle>Terminator 2 - Judgment Day</DVDTitle>
+		<ReleaseDate>2001-01-01</ReleaseDate>
+		<Studio>ARTISAN ENTERTAINMENT</Studio>
+		<Rated>R</Rated>
+		<RegionCode>6</RegionCode>
+		<Director>James Cameron</Director>
+		<Starring>Arnold Schwarzenegger,Linda Hamilton</Starring>
+	</record>
+	<record>
+		<DVDTitle>The Matrix</DVDTitle>
+		<ReleaseDate>1999-09-21</ReleaseDate>
+		<Studio>Warner Studios</Studio>
+		<Rated>R</Rated>
+		<RegionCode>2</RegionCode>
+		<Director>Larry Wachowski,Andy Wachowski</Director>
+		<Starring>Keanu Reeves,Laurence Fishburne</Starring>
+	</record>
+	<record>
+		<DVDTitle>The Mummy Returns</DVDTitle>
+		<ReleaseDate>2001-10-02</ReleaseDate>
+		<Studio>Universal/MCA</Studio>
+		<Rated>PG-13</Rated>
+		<RegionCode>3</RegionCode>
+		<Director>Stephen Sommers</Director>
+		<Starring>Brendan Fraser,Rachel Weisz</Starring>
+	</record>
+	<record>
+		<DVDTitle>Titanic</DVDTitle>
+		<ReleaseDate>1999-08-31</ReleaseDate>
+		<Studio>Paramount Home Video</Studio>
+		<Rated>PG-13</Rated>
+		<RegionCode>2</RegionCode>
+		<Director>James Cameron</Director>
+		<Starring>Leonardo DiCaprio, Kate Winslet</Starring>
+	</record>
+</dvdtitle>
